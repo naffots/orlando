@@ -1,26 +1,25 @@
 # Packning
 
-## Vanliga klader
-Vi ska tvatta efter en vecka
+## Vanliga kläder
+Vi ska tvätta efter en vecka
 7 par strumpor
 7 par kalsonger
-7 par t-trojor
-Langbyxor
+7 par t-tröjor
+Långbyxor
 Kortbyxor
 Badbyxor
-Langarmad troja
+Långarmad tröja
 
-## Trening
+## Träning
 Springbyxor
-Springtrojor
+Springtröjor
 Springskor
 
 ## Badartiklar
 Deo
 Schampoo
-Tval
+Tvål
 Tandborste
-Tandkrem
+Tandkräm
 
-Testar
 
