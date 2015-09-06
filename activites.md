@@ -1,10 +1,10 @@
 # Att göra
 
-Apalachecola
+## Apalachecola
  - Fina stränder
  - Mysig stad
 
-Alligator farm
+## Alligator farm
  - Matar alligator
 
 Västkusten har klarare och varmare vatten
